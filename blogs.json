@@ -1,4 +1,5 @@
-    {
+[
+{
         "name": "Test127",
         "description": "1111111",
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/1.png",
@@ -6,7 +7,6 @@
         "id": 5,
         "date": "2026-01-27"
     }
-[
     {
         "name": "Test1",
         "description": "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest",
