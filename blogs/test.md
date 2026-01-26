@@ -1,132 +1,192 @@
-# Advanced Product Page SEO: Elevating Content Quality and Visuals for Higher Conversions
+# Dillinger
+## _The Last Markdown Editor, Ever_
 
-2026-01-20
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
----
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Product pages are the "last mile" of ecommerce SEO: they have to earn rankings and close the sale. In 2023–2025, that bar got higher. Google's ecommerce guidance increasingly rewards pages that are easy to discover, fast, well-structured, and genuinely helpful, while real users decide in seconds based on clarity, images, trust, and friction. This tutorial shows how to upgrade product page SEO by improving content quality and visual experience, without losing technical rigor.
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
 
-![High-performing product page hero section](https://static.aidenai.io/static/65c0dd087cdd2e6f6c1afb375752f4d3_1768904257.png)
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
 
-## 1) What "good" looks like now in ecommerce SEO (and why conversions follow)
+## Features
 
-Google's ecommerce SEO best practices emphasize a discoverable site structure, complete product information, strong performance, and structured data that helps Search understand product details and eligibility for rich results (price, availability, reviews) (Google Search Central: https://developers.google.com/search/docs/specialty/ecommerce, https://developers.google.com/search/docs/appearance/structured-data/product).
+- Import a HTML file and watch it magically convert to Markdown
+- Drag and drop images (requires your Dropbox account be linked)
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
 
-At the same time, review-related updates now evaluate quality at the page level, which raises the risk of thin, templated content on product detail pages. The practical takeaway is simple: if your product pages look "mass-produced", both rankings and conversion reliability tend to suffer.
+Markdown is a lightweight markup language based on the formatting conventions
+that people naturally use in email.
+As [John Gruber] writes on the [Markdown site][df1]
 
-From a business lens, even small UX and performance wins are meaningful because typical ecommerce conversion rates often sit in a broad 1%–4% range, leaving real upside for teams that improve product-page clarity, speed, and trust (Adobe benchmarks: https://business.adobe.com/blog/basics/ecommerce-conversion-rate-benchmarks).
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
 
-**A modern product page needs to do four jobs at once:**
-- Match search intent (so the right query lands on the right page).
-- Answer decision questions fast (so users do not bounce back to results).
-- Prove trust (so users feel safe to buy or inquire).
-- Render cleanly for Googlebot (especially on JavaScript-heavy stacks).
+This text you see here is *actually- written in Markdown! To get a feel
+for Markdown's syntax, type some text into the left window and
+watch the results in the right.
 
-## 2) Product page content quality: a practical framework you can scale
+## Tech
 
-If you want product page SEO that drives revenue, write and structure content to reduce uncertainty. Here is a scalable framework you can apply across a catalog (then customize for flagship SKUs).
+Dillinger uses a number of open source projects to work properly:
 
-![Six-pillar product page content framework diagram](https://static.aidenai.io/static/1d4dd77fa9604a635aaf67fb406de750_1768904258.png)
+- [AngularJS] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
+- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
+to Markdown converter
+- [jQuery] - duh
 
-### The six pillars (what to include on the page)
-1. **Clarity:** what it is, who it is for, and the primary use case.
-2. **Completeness:** specs, dimensions, materials, compatibility, what is included, setup, and maintenance.
-3. **Differentiation:** what makes this SKU better than alternatives (durability, certifications, support, lead times).
-4. **Proof and trust:** detailed reviews, photos, test reports, policies, and brand information.
-5. **Friction reduction:** shipping, returns, warranty, payment reassurance, and FAQs placed near buying actions.
-6. **SEO structure:** descriptive headings, metadata, structured data, and internal links to relevant categories and guides.
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
 
-### A "do this first" content checklist (use as a template)
-| Page block | What to add or improve | Why it matters for product page SEO and conversion |
-|---|---|---|
-| Above the fold | One-sentence benefit summary, key specs in bullets, visible trust badges (shipping, warranty), clear CTA | Reduces pogo-sticking and hesitation, clarifies intent match fast |
-| Description | Scenario-based copy (how it is used, who buys it, what problem it solves) | Helps avoid generic, repetitive text and strengthens helpfulness signals |
-| Specs | A scannable table (dimensions, materials, compatibility, compliance) | Improves evaluation speed, reduces support tickets, supports long-tail queries |
-| Reviews | Ask for outcome-focused reviews (fit, durability, results), encourage photos | Stronger trust and stronger page-level review usefulness |
-| FAQs | Objection-handling questions (delivery time, compatibility, returns, bulk orders) | Removes friction close to purchase or inquiry |
+## Installation
 
-**Tip for international sellers:** if you operate across APAC, the US, and Europe, align naming, specs, and compliance wording across locales, then localize the truly regional parts (voltage, certification labels, shipping timelines). This avoids duplicate confusion while still matching local intent.
+Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
-## 3) Visuals that rank and convert: design your media like a sales argument
+Install the dependencies and devDependencies and start the server.
 
-High-quality visuals are not decoration. They change how long users stay, what they understand, and whether they trust you. Research and CRO guidelines consistently show that clearer layouts, better product presentation, and friction reduction can lift conversion rates meaningfully (for UX and CRO principles, see: https://usabilitygeek.com/ecommerce-conversion-rate-optimization-guidelines/).
-
-### What to implement on product pages (beyond "add more images")
-- **A purposeful image set (often 6–10 images):**
-  - multi-angle shots,
-  - in-context usage,
-  - close-ups of materials and connectors,
-  - size reference or dimensional overlays,
-  - "what is included" flat-lay,
-  - proof images (packaging, QC, certifications where appropriate).
-- **Short video where complexity is high:** demos, installation, or QC process are especially persuasive for technical or exporter catalogs.
-- **Information design:** icons for key benefits, comparison blocks, and tables to compress decision-making time.
-
-### Image SEO fundamentals that also help performance
-- Use descriptive file names and alt text that describe the visible content and key attributes (Conductor best practices: https://www.conductor.com/academy/product-page-seo/).
-- Serve modern formats (WebP/AVIF), compress, and lazy-load non-critical images to protect Core Web Vitals (Core Web Vitals overview: https://web.dev/vitals/).
-
-```mermaid
-pie showData
-  title Recommended focus split for product page optimization
-  "Technical performance & Core Web Vitals" : 25
-  "Text content & messaging" : 30
-  "Visuals (images, video, icons, layout)" : 25
-  "Internal linking & navigation elements" : 10
-  "Schema & metadata" : 10
+```sh
+cd dillinger
+npm i
+node app
 ```
 
-![Product page image set storyboard](https://static.aidenai.io/static/673d1090e63f5d54baff0c1f730d06fe_1768904258.png)
+For production environments...
 
-## 4) Technical product page SEO: the foundations that make content and visuals count
-
-Even great pages underperform if Google cannot reliably crawl, render, or understand them.
-
-### Priority technical checks for product pages
-- **Core Web Vitals and script discipline:** product pages often accumulate heavy galleries, reviews widgets, personalization, and chat scripts. Defer non-critical scripts, lazy-load below-the-fold media, and prevent layout shifts.
-- **Variant and duplicate control (canonicals):** consolidate signals to a primary URL when variants do not represent distinct intent. This is especially important when color/size parameters create many near-duplicates.
-- **JavaScript rendering readiness:** ensure product name, price, availability, primary image, and canonical are present in a way Googlebot can access. Validate with Search Console's URL inspection and follow JavaScript SEO guidance (https://developers.google.com/search/docs/crawling-indexing/javascript).
-- **Structured data that matches visible content:** implement Product, Offer, Review (when eligible), and Breadcrumb markup, aligned with what users can see (https://developers.google.com/search/docs/appearance/structured-data/product, https://developers.google.com/search/docs/appearance/structured-data/review-snippet).
-
-### A quick technical triage table (so you do not "fix everything")
-| Issue type | Symptom | Usually worth prioritizing? | Why |
-|---|---|---|---|
-| Canonical/duplicate variants | Many similar URLs indexed, unstable rankings | Yes | Consolidates relevance and crawl focus |
-| CWV regressions on PDP | Slow LCP, layout shifts near hero | Yes | Impacts both UX and performance signals |
-| Missing Product structured data | No price/availability in rich results | Often yes | Better SERP presentation and clarity |
-| Faceted crawl explosion | Millions of parameter URLs discovered | Yes | Protects crawl budget and index quality |
-| Minor microcopy tweaks | Slightly different wording only | Sometimes later | Lower leverage than clarity, visuals, speed |
-
-## 5) Connecting category page SEO, product page SEO, and measurement (so improvements compound)
-
-Category page SEO and product page SEO should work as a system:
-- **Category pages** act as intent hubs for broader queries and distribute internal link equity to important products.
-- **Product pages** act as decision endpoints for high-intent, attribute-rich queries.
-
-A simple rule: category pages help you get discovered; product pages help you get chosen.
-
-### Internal linking pattern that scales
-- Category pages should link to priority products with descriptive anchors (not "View").
-- Product pages should link back to the parent category and to a curated set of related products (avoid overwhelming users).
-- Guides and how-to content should link to the most relevant categories and products to support the full journey.
-
-### What to measure (SEO plus conversion), per product URL
-- Search Console: impressions, clicks, CTR, average position.
-- Indexing: coverage and canonical consistency.
-- Engagement: scroll depth, gallery interaction, FAQ opens.
-- Conversion: add-to-cart, checkout initiation, inquiry submits, revenue per session from organic.
-
-To help teams prioritize improvements, here is a simple "impact model" you can use in planning.
-
-```mermaid
-xychart-beta
-    title "Relative impact of product page SEO actions (planning model)"
-    x-axis ["Fold clarity", "Images and video", "FAQs", "Product schema", "Internal links"]
-    y-axis "Impact score (1-10)" 0 --> 10
-    bar [9, 8, 8, 7, 6]
+```sh
+npm install --production
+NODE_ENV=production node app
 ```
 
-### How SeekLab.io supports this workflow (without chasing busywork)
-SeekLab.io focuses on identifying what truly impacts growth, what can be deprioritized, and how to implement changes with clear technical guidance. For international teams, that often includes full-site crawling, Core Web Vitals diagnostics, indexing and rendering checks, schema enhancements, internal linking and semantic structure analysis, and multilingual architecture recommendations (including hreflang SEO where relevant). Content deliverables are designed to be industry-aligned and visually strong, so product pages do not feel generic or monotonous.
+## Plugins
 
-If you want a prioritized plan for your catalog, please [contact us](https://seeklab.io/contact). SeekLab.io operates with teams and legal entities in Singapore and Shanghai, plus a BD team in Dubai, supporting projects across APAC, the US, and Europe.
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+## Development
+
+Want to contribute? Great!
+
+Dillinger uses Gulp + Webpack for fast developing.
+Make a change in your file and instantaneously see your updates!
+
+Open your favorite Terminal and run these commands.
+
+First Tab:
+
+```sh
+node app
+```
+
+Second Tab:
+
+```sh
+gulp watch
+```
+
+(optional) Third:
+
+```sh
+karma test
+```
+
+#### Building for source
+
+For production release:
+
+```sh
+gulp build --prod
+```
+
+Generating pre-built zip archives for distribution:
+
+```sh
+gulp build dist --prod
+```
+
+## Docker
+
+Dillinger is very easy to install and deploy in a Docker container.
+
+By default, the Docker will expose port 8080, so change this within the
+Dockerfile if necessary. When ready, simply use the Dockerfile to
+build the image.
+
+```sh
+cd dillinger
+docker build -t <youruser>/dillinger:${package.json.version} .
+```
+
+This will create the dillinger image and pull in the necessary dependencies.
+Be sure to swap out `${package.json.version}` with the actual
+version of Dillinger.
+
+Once done, run the Docker image and map the port to whatever you wish on
+your host. In this example, we simply map port 8000 of the host to
+port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
+
+```sh
+docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
+```
+
+> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+
+Verify the deployment by navigating to your server address in
+your preferred browser.
+
+```sh
+127.0.0.1:8000
+```
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
+
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
