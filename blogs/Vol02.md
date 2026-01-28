@@ -2,7 +2,6 @@
 *Growth Resilience, Inflation Stickiness, Liquidity Timing, and Geopolitical Risk Repricing*
 
 ---
-
 ## I. Executive Summary
 *   No imminent recession risk in the U.S. economy: Employment remains broadly stable and consumer demand continues to show resilience.
 *   Inflation has entered a “sticky” phase: Upstream cost pressures remain, limiting the Fed's urgency to pivot toward easing.
