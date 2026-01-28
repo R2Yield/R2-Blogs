@@ -16,17 +16,17 @@ R2 is positioned not as a speculative vehicle, but as on-chain yield infrastruct
 
 Recent U.S. macro data reinforces a key structural reality:
 
-- Core PCE YoY: 2.8%, unchanged from September
-- Personal spending MoM: +0.5%, exceeding expectations
-- Consumption remains resilient, preventing inflation from easing organically
+*  Core PCE YoY: 2.8%, unchanged from September
+* Personal spending MoM: +0.5%, exceeding expectations
+* Consumption remains resilient, preventing inflation from easing organically
 
 This confirms that inflation is now stuck in its final, most rigid phase, limiting policy flexibility.
 
 ### 1.2 Growth Is Slowing, Not Breaking
 
-- Manufacturing PMI: 51.9 (above contraction, below expectations)
-- Services PMI: 52.5, stable but weakening in new orders
-- Composite PMI: 52.8, marginal growth with decelerating momentum
+* Manufacturing PMI: 51.9 (above contraction, below expectations)
+* Services PMI: 52.5, stable but weakening in new orders
+* Composite PMI: 52.8, marginal growth with decelerating momentum
 
 The U.S. economy remains functional, but forward growth signals are deteriorating, especially in exports and demand expansion.
 
@@ -38,16 +38,16 @@ Implication: This macro mix is hostile to rapid rate cuts and suppresses upside 
 
 Despite political rhetoric surrounding rate cuts:
 
-- The probability of rates remaining unchanged at the January FOMC exceeds 95%
-- Inflation and fiscal constraints dominate over political signaling
+* The probability of rates remaining unchanged at the January FOMC exceeds 95%
+* Inflation and fiscal constraints dominate over political signaling
 
 Markets are caught in a policy expectation mismatch: Pricing liquidity expansion that macro conditions do not yet allow.
 
 This mismatch historically leads to:
 
-- Valuation compression
-- Increased volatility
-- Reduced risk appetite
+* Valuation compression
+* Increased volatility
+* Reduced risk appetite
 
 ---
 
@@ -57,9 +57,9 @@ This mismatch historically leads to:
 
 Multiple signals point to elevated escalation risk:
 
-- Mass evacuation advisories from the U.S. and Israel
-- Carrier strike groups, electronic warfare deployment, and missile readiness
-- Iran’s uranium enrichment nearing weapons-grade thresholds
+* Mass evacuation advisories from the U.S. and Israel
+* Carrier strike groups, electronic warfare deployment, and missile readiness
+* Iran’s uranium enrichment nearing weapons-grade thresholds
 
 This is no longer a signaling game; it is a strategic confrontation with narrowing diplomatic exit paths.
 
@@ -67,9 +67,9 @@ This is no longer a signaling game; it is a strategic confrontation with narrowi
 
 In the event of escalation, historical market behavior suggests:
 
-1. Gold / Silver / Oil rise first (risk & supply shock)
-2. Equities face de-risking at elevated valuations
-3. Crypto assets, particularly BTC and ETH, are treated as risk assets in the initial phase, not safe havens
+* Gold / Silver / Oil rise first (risk & supply shock)
+* Equities face de-risking at elevated valuations
+* Crypto assets, particularly BTC and ETH, are treated as risk assets in the initial phase, not safe havens
 
 High-price crypto markets tend to absorb liquidity shocks before benefiting from any later monetary response.
 
@@ -79,9 +79,9 @@ High-price crypto markets tend to absorb liquidity shocks before benefiting from
 
 The current market environment is defined by:
 
-- No systemic collapse
-- No sustained liquidity-driven upside
-- High sensitivity to exogenous shocks
+* No systemic collapse
+* No sustained liquidity-driven upside
+* High sensitivity to exogenous shocks
 
 This creates a regime where:
 
@@ -99,17 +99,17 @@ Its value proposition is aligned with the structural needs of capital under unce
 
 Investors increasingly prioritize:
 
-- Stablecoin-denominated yield
-- Low drawdown profiles
-- Transparent, explainable return sources
+* Stablecoin-denominated yield
+* Low drawdown profiles
+* Transparent, explainable return sources
 
 ### 5.2 R2’s Strategic Response
 
 R2 focuses on:
 
-- RWA-backed yield (STAC, T-bills, VBILL)
-- Market-neutral and non-directional strategies
-- Institutional-grade asset partnerships
+* RWA-backed yield (STAC, T-bills, VBILL)
+* Market-neutral and non-directional strategies
+* Institutional-grade asset partnerships
 
 The objective is not to outperform in a bull market, but to remain viable, credible, and compounding across cycles.
 
@@ -119,10 +119,10 @@ The objective is not to outperform in a bull market, but to remain viable, credi
 
 In the current macro regime, R2 operates under four core principles:
 
-1.  Stability over peak yield
-2.  Drawdown control over directional beta
-3.  Real yield before incentive-driven growth
-4.  Survivability as a strategic advantage
+* Stability over peak yield
+* Drawdown control over directional beta
+* Real yield before incentive-driven growth
+* Survivability as a strategic advantage
 
 ---
 
