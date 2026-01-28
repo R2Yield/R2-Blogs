@@ -8,12 +8,12 @@
         "date": "2026-01-28"
     },
     {
-        "name": "Test1",
-        "description": "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest",
+        "name": "R2 Macro Structure Notes | Vol. 03",
+        "description": "A Macro Snapshot: Where Global Markets Stand Today",
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner3.png",
-        "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/test.md",
-        "id": 1,
-        "date": "2026-01-26"
+        "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol03.md",
+        "id": 3,
+        "date": "2026-01-27"
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 02",
@@ -28,7 +28,7 @@
         "description": "From Venezuela to Global Liquidity: Why Structure Matters More Than Judgment",
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner1.png",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol01.md",
-        "id": 3,
+        "id": 1,
         "date": "2026-01-26"
     }
 ]
