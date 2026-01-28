@@ -1,5 +1,5 @@
 # R2 Macro Structure Notes | Vol. 01
-***From Venezuela to Global Liquidity: Why Structure Matters More Than Judgment***
+*From Venezuela to Global Liquidity: Why Structure Matters More Than Judgment*
 
 In recent days, attention has shifted toward an event that may appear geographically distant, yet carries broader structural significance:
 
@@ -62,9 +62,11 @@ From a systemic viewpoint, the uncertainty introduced by such developments exten
 Two dimensions are particularly relevant:
 
 **Precedent considerations**
+
 If similar actions become more common, assumptions around sovereignty and institutional boundaries may gradually shift.
 
 **Replication risk**
+
 Once a certain approach is perceived as effective, the likelihood of analogous actions elsewhere increases.
 
 These dynamics do not necessarily translate into immediate crisis.
