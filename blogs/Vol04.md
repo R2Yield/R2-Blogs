@@ -1,6 +1,7 @@
 # R2 Macro Structure Notes | Vol. 04
 *Macroeconomic Risk, Geopolitics, and the Role of Real Yield Infrastructure*
-
+  
+---
 ## Executive Summary
 Global financial markets have entered a phase defined not by recession, but by persistent inflation, constrained monetary policy, and rising geopolitical tail risks.
 
