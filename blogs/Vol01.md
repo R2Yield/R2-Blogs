@@ -2,7 +2,6 @@
 *From Venezuela to Global Liquidity: Why Structure Matters More Than Judgment*
 
 ---
-
 In recent days, attention has shifted toward an event that may appear geographically distant, yet carries broader structural significance:
 
 the evolving situation in Venezuela, and its intersection with energy markets, fiscal constraints, and geopolitics.
