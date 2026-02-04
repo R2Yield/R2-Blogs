@@ -2,15 +2,15 @@
    {
         "name": "R2 Major Update | A Cleaner, Simpler Yield Experience",
         "description": "R2 Major Update | A Cleaner, Simpler Yield Experience",
-        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner51.webp",
-        "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/newupdate.md",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner5.avif",
+        "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol05.md",
         "id": 5,
         "date": "2026-02-03"
     },
    {
         "name": "R2 Macro Structure Notes | Vol. 04",
         "description": "Macroeconomic Risk, Geopolitics, and the Role of Real Yield Infrastructure",
-        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner4.png",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner4.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol04.md",
         "id": 4,
         "date": "2026-01-28"
@@ -18,7 +18,7 @@
     {
         "name": "R2 Macro Structure Notes | Vol. 03",
         "description": "A Macro Snapshot: Where Global Markets Stand Today",
-        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner33.png",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner3.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol03.md",
         "id": 3,
         "date": "2026-01-27"
@@ -26,7 +26,7 @@
     {
         "name": "R2 Macro Structure Notes | Vol. 02",
         "description": "Growth Resilience, Inflation Stickiness, Liquidity Timing, and Geopolitical Risk Repricing",
-        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner2.png",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner2.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol02.md",
         "id": 2,
         "date": "2026-01-26"
@@ -34,7 +34,7 @@
     {
         "name": "R2 Macro Structure Notes | Vol. 01",
         "description": "From Venezuela to Global Liquidity: Why Structure Matters More Than Judgment",
-        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner1.png",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner1.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol01.md",
         "id": 1,
         "date": "2026-01-26"
