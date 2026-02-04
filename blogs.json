@@ -6,7 +6,7 @@
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol05update.md",
         "id": 6,
         "date": "2026-02-04",
-        "tag": ""
+        "tag": "Macro Outlook"
     },   
    {
         "name": "R2 Major Update | A Cleaner, Simpler Yield Experience",
@@ -15,7 +15,7 @@
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol05.md",
         "id": 5,
         "date": "2026-02-03",
-        "tag": ""
+        "tag": "Update"
     },
    {
         "name": "R2 Macro Structure Notes | Vol. 04",
@@ -24,7 +24,7 @@
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol04.md",
         "id": 4,
         "date": "2026-01-28",
-        "tag": ""
+        "tag": "Macro Outlook"
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 03",
@@ -33,7 +33,7 @@
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol03.md",
         "id": 3,
         "date": "2026-01-27",
-        "tag": ""
+        "tag": "Macro Outlook"
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 02",
@@ -42,7 +42,7 @@
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol02.md",
         "id": 2,
         "date": "2026-01-26",
-        "tag": ""
+        "tag": "Macro Outlook"
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 01",
@@ -51,6 +51,6 @@
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol01.md",
         "id": 1,
         "date": "2026-01-26",
-        "tag": ""
+        "tag": "Macro Outlook"
     }
 ]
