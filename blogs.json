@@ -2,10 +2,11 @@
    {
         "name": "R2 Macro Structure Notes | Vol. 05",
         "description": "Liquidity Tightness, Structural Deleveraging, and Why Directional Bets Matter Less",
-        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner6.jpg",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner6.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol05update.md",
         "id": 6,
-        "date": "2026-02-04"
+        "date": "2026-02-04",
+        "tag": ""
     },   
    {
         "name": "R2 Major Update | A Cleaner, Simpler Yield Experience",
@@ -13,7 +14,8 @@
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner5.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol05.md",
         "id": 5,
-        "date": "2026-02-03"
+        "date": "2026-02-03",
+        "tag": ""
     },
    {
         "name": "R2 Macro Structure Notes | Vol. 04",
@@ -21,7 +23,8 @@
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner4.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol04.md",
         "id": 4,
-        "date": "2026-01-28"
+        "date": "2026-01-28",
+        "tag": ""
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 03",
@@ -29,7 +32,8 @@
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner3.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol03.md",
         "id": 3,
-        "date": "2026-01-27"
+        "date": "2026-01-27",
+        "tag": ""
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 02",
@@ -37,7 +41,8 @@
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner2.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol02.md",
         "id": 2,
-        "date": "2026-01-26"
+        "date": "2026-01-26",
+        "tag": ""
     },
     {
         "name": "R2 Macro Structure Notes | Vol. 01",
@@ -45,6 +50,7 @@
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner1.avif",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol01.md",
         "id": 1,
-        "date": "2026-01-26"
+        "date": "2026-01-26",
+        "tag": ""
     }
 ]
