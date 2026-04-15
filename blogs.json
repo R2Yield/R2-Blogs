@@ -1,7 +1,16 @@
 [
+     {
+        "name": "R2 Macro Structure Notes | Vol. 15",
+        "description": "Inflation Is No Longer Falling Cleanly",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner16.jpg",
+        "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol15.md",
+        "id": 16,
+        "date": "2026-04-15",
+        "tag": "Macro Outlook"
+    },                              
       {
         "name": "R2 Macro Structure Notes | Vol. 14",
-        "description": "Risk Sentiment Is Recovering, But Trend Confirmation Remains Absent",
+        "description": "",
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner15.jpg",
         "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol14.md",
         "id": 15,
