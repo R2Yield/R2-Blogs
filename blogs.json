@@ -1,5 +1,14 @@
 [
      {
+        "name": "R2 Macro Structure Notes | Vol. 17",
+        "description": "Liquidity Without Conviction",
+        "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner19.jpg",
+        "blog_url": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/blogs/Vol17.md",
+        "id": 18,
+        "date": "2026-05-06",
+        "tag": "Macro Outlook"
+    },         
+     {
         "name": "R2 Macro Structure Notes | Vol. 16",
         "description": "Stability Without Resolution",
         "banner": "https://raw.githubusercontent.com/R2Yield/R2-Blogs/refs/heads/main/banners/banner17.avif",
